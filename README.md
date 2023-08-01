@@ -43,7 +43,7 @@ I'm interested in AI and Backend. So I'm currently learning Deep Learning and Sp
 
 <br><br>
 <div align=center>
-<h2>✉️ How to contact me</h2>
+<h2>✉️ How to contact</h2>
 <h4>Email</h4>
 now0104@knu.ac.kr
 <h4>SNS</h4>
