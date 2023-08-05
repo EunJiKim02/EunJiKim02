@@ -58,14 +58,14 @@ now0104@knu.ac.kr
 
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mobuktodae&show_icons=true&theme=merko"
+    srcset="https://github-readme-stats.vercel.app/api?username=EunjiKim02&show_icons=true&theme=merko"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mobuktodae&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=mEunjiKim02&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=mobuktodae&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EunjiKim02&show_icons=true" />
 </picture>
   
 </div>
