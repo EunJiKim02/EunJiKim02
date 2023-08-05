@@ -50,7 +50,7 @@ now0104@knu.ac.kr
 <br><br>
 <div align=center>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobuktodae&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunjiKim02&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=now0104)](https://solved.ac/now0104)
 
