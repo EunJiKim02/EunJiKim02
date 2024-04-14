@@ -1,10 +1,12 @@
 <div align=center>
-<h3>Hi, Everyone.😊 I'm Eunji Kim 🖐️</h3>
-I'm majoring in computer science at Kyungpook National University. (Senior)<br>
-I'm interested in AI and Backend. So I'm currently learning Deep Learning and Spring Boot.<br>
 <br>
-🐢 I'll become a AI engineer who learns "steadily" like a turtle!! 🐢
-</div>
+<h3>Hello. 😊 I’m Eunji Kim. 🖐️</h3>
+
+I’m majoring in computer science at Kyungpook National University in South Korea, Daegu. <br>
+I’m interested in AI, especially computer vision. Currently, I have challenging time to learning generative AI for images and videos.
+
+<br>
+🐢 I’m always trying to become an AI engineer who go forward ‘steadily’ like turtles! 🐢
 
 <br><br>
 
