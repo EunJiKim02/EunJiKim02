@@ -53,7 +53,9 @@ now0104@knu.ac.kr
 
 <br><br>
 <div align=center>
+  
   [![EJ stats](https://github-stats-extended.vercel.app/api?username=EunjiKim02)](https://github.com/stats-organization/github-stats-extended)
+  
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=now0104)](https://solved.ac/now0104)
 
