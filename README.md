@@ -53,8 +53,7 @@ now0104@knu.ac.kr
 
 <br><br>
 <div align=center>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunjiKim02&layout=compact&theme=merko&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+  [![EJ stats](https://github-stats-extended.vercel.app/api?username=EunjiKim02)](https://github.com/stats-organization/github-stats-extended)
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=now0104)](https://solved.ac/now0104)
 
